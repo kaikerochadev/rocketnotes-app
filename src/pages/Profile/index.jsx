@@ -9,7 +9,7 @@ import { api } from "../../services/api";
 import avatarPlaceholder from "../../assets/avatar_placeholder.svg"
 
 import { Input } from "../../components/Input";
-import { Button } from "../../components/button";
+import { Button } from "../../components/Button";
 import {ButtonText} from "../../components/ButtonText"
 
 
