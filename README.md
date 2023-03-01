@@ -2,7 +2,8 @@
 <h2>Sistema de criação e gerenciamento de notas</h2>
 <h4>Projeto desenvolvido na Trilha Explorer da Rocketseat</h4>
 <h3>Confira o Back End. Link do repositório abaixo 👇</h3>
-- [Clique aqui para conferir o Back End](https://github.com/KaikeRochaDev/rocketnotes-api) <br>
+
+- [Clique aqui para conferir o Back End](https://github.com/KaikeRochaDev/rocketnotes-api)
 
 <p>O sistema conta com: </p> 
 - 📝 Processo de autenticação, com login e cadastro; <br>
