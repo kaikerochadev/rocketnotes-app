@@ -1,9 +1,7 @@
 <h1>RocketNotes (Front End)</h1>
 <h2>Sistema de criação e gerenciamento de notas</h2>
 <p>Projeto desenvolvido na Trilha Explorer da Rocketseat</p> <br>
-
 <h2>Confira o Back End. Link do repositório abaixo 👇</h2>
-
 - [Clique aqui para conferir o Back End](https://github.com/KaikeRochaDev/rocketnotes-api) <br>
 
 <p>O sistema conta com: </p> 
