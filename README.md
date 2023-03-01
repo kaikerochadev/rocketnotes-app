@@ -3,7 +3,7 @@
 <h4>Projeto desenvolvido na Trilha Explorer da Rocketseat</h4>
 <h3>Confira o Back End. Link do repositório abaixo 👇</h3>
 
-- [Clique aqui para conferir o Back End](https://github.com/KaikeRochaDev/rocketnotes-api)
+<a href="https://github.com/KaikeRochaDev/rocketnotes-api" target="_blank">Clique aqui para conferir o Back End</a>
 
 <p>O sistema conta com: </p> 
 - 📝 Processo de autenticação, com login e cadastro; <br>
