@@ -4,6 +4,7 @@
 <h3>Confira o Back End. Link do repositório abaixo 👇</h3>
 
 <a href="https://github.com/KaikeRochaDev/rocketnotes-api" target="_blank">Clique aqui para conferir o Back End</a>
+<h5><strong>OBS</strong>: Ao acessar o deploy, o site leva em cerca de 30 segundos para se iniciar, pois como não possuo um dominío próprio, o servidor fica desligado!</h5>
 
 <p>O sistema conta com: </p> 
 - 📝 Processo de autenticação, com login e cadastro; <br>
